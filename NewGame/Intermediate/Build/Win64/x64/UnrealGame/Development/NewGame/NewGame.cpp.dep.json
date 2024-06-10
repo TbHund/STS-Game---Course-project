@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5_projects\\newgame\\source\\newgame\\newgame.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5_projects\\newgame\\intermediate\\build\\win64\\x64\\newgame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue5_projects\\newgame\\intermediate\\build\\win64\\x64\\unrealgame\\development\\newgame\\definitions.newgame.h",
+            "d:\\ue5_projects\\newgame\\source\\newgame\\newgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

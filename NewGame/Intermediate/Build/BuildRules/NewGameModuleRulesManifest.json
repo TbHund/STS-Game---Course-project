@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE5_PROJECTS\\NewGame\\Source\\NewGame\\NewGame.Build.cs",
+		"D:\\UE5_PROJECTS\\NewGame\\Source\\NewGame.Target.cs",
+		"D:\\UE5_PROJECTS\\NewGame\\Source\\NewGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.1"
+}

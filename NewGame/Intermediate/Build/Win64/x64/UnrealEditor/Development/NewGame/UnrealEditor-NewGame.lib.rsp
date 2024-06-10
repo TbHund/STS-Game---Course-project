@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NewGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE5_PROJECTS\NewGame\Intermediate\Build\Win64\x64\NewGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\UE5_PROJECTS\NewGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewGame\EndTurnButton.gen.cpp.obj"
+"D:\UE5_PROJECTS\NewGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewGame\MainMenu.gen.cpp.obj"
+"D:\UE5_PROJECTS\NewGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewGame\NewGame.init.gen.cpp.obj"
+"D:\UE5_PROJECTS\NewGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewGame\EndTurnButton.cpp.obj"
+"D:\UE5_PROJECTS\NewGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewGame\MainMenu.cpp.obj"
+"D:\UE5_PROJECTS\NewGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewGame\NewGame.cpp.obj"
+"D:\UE5_PROJECTS\NewGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewGame\Default.rc2.res"
+/OUT:"D:\UE5_PROJECTS\NewGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewGame\UnrealEditor-NewGame.lib"
